@@ -1,0 +1,27 @@
+
+Rank	Name			
+1	Rama			
+2	Hanuman			
+3	Garuda			
+4	Ravana			
+5	Sita			
+6	Vishvamitra			
+7	Lakshmana			
+8	Dasharatha			
+9	Vasistha			
+10	Kubera			
+11	Vali (Ramayana)			
+12	Bharata (Ramayana)			
+13	Surpanakha			
+14	Lava (Ramayana)			
+15	Indrajit			
+16	Vibhishana			
+17	Jatayu			
+18	Sugriva			
+19	Kusha (Ramayana)			
+20	Kausalya			
+21	Kaikeyi			
+22	Kumbhakarna			
+23	Menaka			
+24	Anjana			
+25	Janaka
